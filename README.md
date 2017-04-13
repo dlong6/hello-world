@@ -1,3 +1,2 @@
 # hello-world
-Consonants of Opulence
-Words of Wealth, Nouns of Crowns
+SELECT * FROM [MLB2008] 
